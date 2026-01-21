@@ -70,7 +70,7 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 ---
 
-## 📸预览
+## 📸 预览
 
 ### 移动端
 

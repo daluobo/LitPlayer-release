@@ -63,11 +63,14 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 ---
 
 ## 📥 下载与安装
+- 移动端只打包了arm64-v8a，有armeabi-v7a需求的可提出
+- TV端 包含了arm64-v8a和armeabi-v7a
 
+[Releases](https://github.com/daluobo/LitPlayer-release/releases/latest)
 
 ---
 
-## 预览
+## 📸预览
 
 ### 移动端
 
@@ -81,10 +84,11 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 ### TV端
 <div style="display: flex;">
-<img alt="tv_library_2" src="https://github.com/user-attachments/assets/ff81bede-ba12-4167-b463-342454d2333d" width="48%" />
-<img alt="tv_playback" src="https://github.com/user-attachments/assets/bf54a24d-bac7-4979-9b83-b9392c506c47" width="48%" />
+<img alt="tv_home" src="https://github.com/user-attachments/assets/1982e04d-c760-4b53-9a68-cbef8979e8b9" width="48%" />
+<img alt="tv_library_1" src="https://github.com/user-attachments/assets/77426930-a604-46f6-8c5d-bb136197bbf9" width="48%" />
+
 </div>
 <div style="display: flex;">
-<img alt="tv_library_1" src="https://github.com/user-attachments/assets/77426930-a604-46f6-8c5d-bb136197bbf9" width="48%" />
-<img alt="tv_home" src="https://github.com/user-attachments/assets/1982e04d-c760-4b53-9a68-cbef8979e8b9" width="48%" />
+<img alt="tv_library_2" src="https://github.com/user-attachments/assets/ff81bede-ba12-4167-b463-342454d2333d" width="48%" />
+<img alt="tv_playback" src="https://github.com/user-attachments/assets/bf54a24d-bac7-4979-9b83-b9392c506c47" width="48%" />
 </div>

@@ -70,13 +70,21 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 ## 预览
 
 ### 移动端
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/home.png "home")
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/library.png "library")
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/setting.png "setting")
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/playback.png "playback")
+
+<div style="display: flex;">
+<img  alt="home" src="https://github.com/user-attachments/assets/fd57ae6a-c0bc-48d8-ac04-84dd21821080" width="24%" />
+<img  alt="library" src="https://github.com/user-attachments/assets/19dd1ac6-c56d-4d4b-b755-c8f750573fda" width="24%" />
+<img  alt="setting" src="https://github.com/user-attachments/assets/33e388ec-e2c6-4118-84b1-e350732bfdaf" width="24%" />
+<img  alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" />
+</div>
 
 
 ### TV端
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/tv_home.png "tv_home")
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/tv_library.png "tv_library")
-![home](https://github.com/daluobo/LitPlayer-release/blob/main/screenshot/tv_playback.png "tv_playback")
+<div style="display: flex;">
+<img alt="tv_library_2" src="https://github.com/user-attachments/assets/ff81bede-ba12-4167-b463-342454d2333d" width="48%" />
+<img alt="tv_playback" src="https://github.com/user-attachments/assets/bf54a24d-bac7-4979-9b83-b9392c506c47" width="48%" />
+</div>
+<div style="display: flex;">
+<img alt="tv_library_1" src="https://github.com/user-attachments/assets/77426930-a604-46f6-8c5d-bb136197bbf9" width="48%" />
+<img alt="tv_home" src="https://github.com/user-attachments/assets/1982e04d-c760-4b53-9a68-cbef8979e8b9" width="48%" />
+</div>

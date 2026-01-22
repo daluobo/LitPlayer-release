@@ -75,10 +75,12 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 ### 移动端
 
 <div style="display: flex;">
-<img  alt="home" src="https://github.com/user-attachments/assets/fd57ae6a-c0bc-48d8-ac04-84dd21821080" width="24%" />
-<img  alt="library" src="https://github.com/user-attachments/assets/19dd1ac6-c56d-4d4b-b755-c8f750573fda" width="24%" />
-<img  alt="setting" src="https://github.com/user-attachments/assets/33e388ec-e2c6-4118-84b1-e350732bfdaf" width="24%" />
-<img  alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" />
+<div style="display: flex;">
+    <img alt="home" src="https://github.com/user-attachments/assets/7a6fdadf-5f3e-48a7-bf56-6383b55f0499" width="24%" />
+    <img alt="library" src="https://github.com/user-attachments/assets/f05802f5-6c46-46c5-92ea-f25bc948ba87" width="24%" />
+    <img alt="setting" src="https://github.com/user-attachments/assets/8541a233-8fe4-4221-ab14-c955e2d7044a" width="24%" />
+    <img alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" />
+</div>
 </div>
 
 

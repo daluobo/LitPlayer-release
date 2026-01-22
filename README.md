@@ -1,5 +1,6 @@
 # 📱 LitPlayer (Bobo Player)
 
+[中文版本](https://github.com/daluobo/LitPlayer-release/blob/main/README_CN.md)
 LitPlayer is an Android video player built with the Jetpack Compose declarative UI framework, based on Media3 ExoPlayer, and following the **Material Design 3** specification. It features a clean interface, smooth interactions, and is perfectly adapted for **Android phones, tablets**, and **Android TV**, providing a consistent viewing experience across devices.
 
 ---
@@ -77,8 +78,20 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 
 ### Mobile Version
 
-<div style="display: flex;"> <img alt="home" src="https://github.com/user-attachments/assets/fd57ae6a-c0bc-48d8-ac04-84dd21821080" width="24%" /> <img alt="library" src="https://github.com/user-attachments/assets/19dd1ac6-c56d-4d4b-b755-c8f750573fda" width="24%" /> <img alt="setting" src="https://github.com/user-attachments/assets/33e388ec-e2c6-4118-84b1-e350732bfdaf" width="24%" /> <img alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" /> </div>
+<div style="display: flex;">
+    <img alt="home" src="https://github.com/user-attachments/assets/7a6fdadf-5f3e-48a7-bf56-6383b55f0499" width="24%" />
+    <img alt="library" src="https://github.com/user-attachments/assets/f05802f5-6c46-46c5-92ea-f25bc948ba87" width="24%" />
+    <img alt="setting" src="https://github.com/user-attachments/assets/8541a233-8fe4-4221-ab14-c955e2d7044a" width="24%" />
+    <img alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" />
+</div>
 
 ### TV Version
 
-<div style="display: flex;"> <img alt="tv_home" src="https://github.com/user-attachments/assets/1982e04d-c760-4b53-9a68-cbef8979e8b9" width="48%" /> <img alt="tv_library_1" src="https://github.com/user-attachments/assets/77426930-a604-46f6-8c5d-bb136197bbf9" width="48%" /> </div> <div style="display: flex;"> <img alt="tv_library_2" src="https://github.com/user-attachments/assets/ff81bede-ba12-4167-b463-342454d2333d" width="48%" /> <img alt="tv_playback" src="https://github.com/user-attachments/assets/bf54a24d-bac7-4979-9b83-b9392c506c47" width="48%" /> </div>
+<div style="display: flex;">
+    <img alt="tv_home" src="https://github.com/user-attachments/assets/1982e04d-c760-4b53-9a68-cbef8979e8b9" width="48%" />
+    <img alt="tv_library_1" src="https://github.com/user-attachments/assets/77426930-a604-46f6-8c5d-bb136197bbf9" width="48%" />
+</div>
+<div style="display: flex;">
+    <img alt="tv_library_2" src="https://github.com/user-attachments/assets/ff81bede-ba12-4167-b463-342454d2333d" width="48%" />
+    <img alt="tv_playback" src="https://github.com/user-attachments/assets/bf54a24d-bac7-4979-9b83-b9392c506c47" width="48%" />
+</div>

@@ -1,6 +1,7 @@
 # 📱 LitPlayer (Bobo Player)
 
 [中文版本](https://github.com/daluobo/LitPlayer-release/blob/main/README_CN.md)
+
 LitPlayer is an Android video player built with the Jetpack Compose declarative UI framework, based on Media3 ExoPlayer, and following the **Material Design 3** specification. It features a clean interface, smooth interactions, and is perfectly adapted for **Android phones, tablets**, and **Android TV**, providing a consistent viewing experience across devices.
 
 ---

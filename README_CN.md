@@ -1,4 +1,4 @@
-# 📱 LitPlayer（播播机）
+# 📱 播播机（LitPlayer）
 
 LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 ExoPlayer 构建，遵循 **Material Design 3** 设计规范的 Android 视频播放器，界面简洁、交互流畅，完美适配 **Android 手机、平板** 与 **Android TV**，为您提供跨设备的一致观影体验。
 

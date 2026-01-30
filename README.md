@@ -1,4 +1,4 @@
-# 📱 LitPlayer (Bobo Player)
+# 📱 LitPlayer
 
 [中文版本](https://github.com/daluobo/LitPlayer-release/blob/main/README_CN.md)
 

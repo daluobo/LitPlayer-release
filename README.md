@@ -4,7 +4,6 @@
 
 LitPlayer is an Android video player built with the Jetpack Compose declarative UI framework, based on Media3 ExoPlayer, and following the **Material Design 3** specification. It features a clean interface, smooth interactions, and is perfectly adapted for **Android phones, tablets**, and **Android TV**, providing a consistent viewing experience across devices.
 
----
 
 ## 📲 Device Support
 
@@ -15,7 +14,6 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 - ✅ Android TV
 
 
----
 
 ## 🚀 Key Features
 
@@ -51,7 +49,6 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 - RGB colorful themes for personalized visual experience
 
 
----
 
 ## 📊 Version & Feature Adaptation
 
@@ -62,7 +59,6 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 |TV - lite|7.0|❌ Not Supported|
 |TV|8.0|✅ Supported|
 
----
 
 ## 📥 Download & Installation
 
@@ -73,7 +69,6 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 
 [Releases](https://github.com/daluobo/LitPlayer-release/releases/latest)
 
----
 
 ## 📸 Preview
 

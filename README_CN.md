@@ -2,7 +2,6 @@
 
 LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 ExoPlayer 构建，遵循 **Material Design 3** 设计规范的 Android 视频播放器，界面简洁、交互流畅，完美适配 **Android 手机、平板** 与 **Android TV**，为您提供跨设备的一致观影体验。
 
----
 
 ## 📲 设备支持
 
@@ -13,7 +12,6 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 - ✅ Android TV
 
 
----
 
 ## 🚀 功能亮点
 
@@ -49,7 +47,6 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 - RGB 炫彩主题，个性化视觉体验
 
 
----
 
 ## 📊 版本与功能适配
 
@@ -60,7 +57,6 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 |TV - lite|7.0|❌ 不支持|
 |TV|8.0|✅ 支持|
 
----
 
 ## 📥 下载与安装
 - 移动端只打包了arm64-v8a，有armeabi-v7a需求的可提出
@@ -68,7 +64,6 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 [Releases](https://github.com/daluobo/LitPlayer-release/releases/latest)
 
----
 
 ## 📸 预览
 

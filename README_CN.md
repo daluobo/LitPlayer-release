@@ -19,7 +19,7 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 - 本地视频播放
 
-- 网络流媒体播放（支持 SMB、WebDAV、UPnP 媒体服务器）
+- 网络流媒体播放（支持 SMB、WebDAV、Ftp、UPnP 媒体服务器）
 
 - 播放手势操作（双击播放/暂停、滑动快进/快退、音量/亮度手势调节、长按倍速播放等）
 

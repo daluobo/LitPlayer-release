@@ -21,7 +21,7 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 
 - Local video playback
 
-- Network streaming playback (supports SMB, WebDAV, UPnP media servers)
+- Network streaming playback (supports SMB, WebDAV, Ftp, UPnP media servers)
 
 - Playback gestures (double-tap to play/pause, swipe to seek forward/backward, volume/brightness gesture adjustment, long press for speed playback, etc.)
 

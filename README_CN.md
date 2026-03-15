@@ -1,6 +1,6 @@
 # 📱 播播机（LitPlayer）
 
-LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 ExoPlayer 构建，遵循 **Material Design 3** 设计规范的 Android 视频播放器，界面简洁、交互流畅，完美适配 **Android 手机、平板** 与 **Android TV**，为您提供跨设备的一致观影体验。
+LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 ExoPlayer 构建，遵循 **Material Design 3** 设计规范的 Android 音视频播放器，界面简洁、交互流畅，完美适配 **Android 手机、平板** 与 **Android TV**，为您提供跨设备的一致观影体验。
 
 
 ## 📲 设备支持
@@ -17,9 +17,9 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 ### ▶️ 播放支持
 
-- 本地视频播放
+- 本地音频、视频播放
 
-- 网络流媒体播放（支持 SMB、WebDAV、Ftp、UPnP 媒体服务器）
+- 网络流媒体播放（支持 SMB、WebDAV、Ftp、Jellyfin、UPnP 媒体服务器）
 
 - 播放手势操作（双击播放/暂停、滑动快进/快退、音量/亮度手势调节、长按倍速播放等）
 
@@ -59,7 +59,7 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 
 ## 📥 下载与安装
-- 移动端只打包了arm64-v8a，有armeabi-v7a需求的可提出
+- 移动端当前仅提供 arm64-v8a 架构（即 64 位 ARM 设备）。如果您的设备是其他架构（如 32 位 ARM 或 x86），安装后可能无法正常运行。若您需要其他架构的支持，欢迎通过 [Issues](https://github.com/daluobo/LitPlayer-release/issues) 提出需求，我们会根据反馈情况评估后续兼容计划
 - TV端 包含了arm64-v8a和armeabi-v7a
 
 [Releases](https://github.com/daluobo/LitPlayer-release/releases/latest)
@@ -69,15 +69,21 @@ LitPlayer 是一款采用 Jetpack Compose 声明式 UI 框架，基于 Media3 Ex
 
 ### 移动端
 
+#### 视频
 <div style="display: flex;">
-<div style="display: flex;">
-    <img alt="home" src="https://github.com/user-attachments/assets/7a6fdadf-5f3e-48a7-bf56-6383b55f0499" width="24%" />
-    <img alt="library" src="https://github.com/user-attachments/assets/f05802f5-6c46-46c5-92ea-f25bc948ba87" width="24%" />
-    <img alt="setting" src="https://github.com/user-attachments/assets/8541a233-8fe4-4221-ab14-c955e2d7044a" width="24%" />
-    <img alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" />
-</div>
+<img  alt="home" src="https://github.com/user-attachments/assets/516af00b-a3f7-4398-98a2-08ca685ebf1e" width="24%" />
+<img  alt="video list" src="https://github.com/user-attachments/assets/47cb43c2-2f9f-4b51-b130-c8e9a8e4be6f" width="24%" />
+<img  alt="video playing" src="https://github.com/user-attachments/assets/a360dfec-683d-4fc4-b026-c488a3836365" width="24%" />
+<img  alt="video playlist" src="https://github.com/user-attachments/assets/15474f11-8d58-4369-8ccd-2180cf735189" width="24%" />
 </div>
 
+#### 音频
+<div style="display: flex;">
+<img  alt="audio title" src="https://github.com/user-attachments/assets/e839a9cd-386b-4cab-b4eb-87aa10b82e53" width="24%" />
+<img  alt="audio album" src="https://github.com/user-attachments/assets/fd6c80f3-7b09-4e48-96cd-958036dae3dc" width="24%" />
+<img  alt="video playing" src="https://github.com/user-attachments/assets/6870e602-5979-4344-a424-6b66bffe07af" width="24%" />
+<img  alt="audio playlist" src="https://github.com/user-attachments/assets/38530aec-85c8-4825-a858-ac2acb32591d" width="24%" />
+</div>
 
 ### TV端
 <div style="display: flex;">

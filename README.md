@@ -2,7 +2,7 @@
 
 [中文版本](https://github.com/daluobo/LitPlayer-release/blob/main/README_CN.md)
 
-LitPlayer is an Android video player built with the Jetpack Compose declarative UI framework, based on Media3 ExoPlayer, and following the **Material Design 3** specification. It features a clean interface, smooth interactions, and is perfectly adapted for **Android phones, tablets**, and **Android TV**, providing a consistent viewing experience across devices.
+LitPlayer is an Android meida player built with the Jetpack Compose declarative UI framework, based on Media3 ExoPlayer, and following the **Material Design 3** specification. It features a clean interface, smooth interactions, and is perfectly adapted for **Android phones, tablets**, and **Android TV**, providing a consistent viewing experience across devices.
 
 
 ## 📲 Device Support
@@ -19,9 +19,9 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 
 ### ▶️ Playback Support
 
-- Local video playback
+- Local audio、video playback
 
-- Network streaming playback (supports SMB, WebDAV, Ftp, UPnP media servers)
+- Network streaming playback (supports SMB, WebDAV, Ftp, Jellyfin、UPnP media servers)
 
 - Playback gestures (double-tap to play/pause, swipe to seek forward/backward, volume/brightness gesture adjustment, long press for speed playback, etc.)
 
@@ -62,7 +62,7 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 
 ## 📥 Download & Installation
 
-- The mobile version only includes the arm64-v8a build. If you require armeabi-v7a, please let us know.
+- The mobile version currently only supports the arm64-v8a architecture (i.e., 64-bit ARM devices). If your device uses a different architecture (such as 32-bit ARM or x86), it may not run properly after installation. If you need support for other architectures, please feel free to submit your requests via [Issues](https://github.com/daluobo/LitPlayer-release/issues). We will evaluate the feedback and consider future compatibility plans accordingly.
 
 - The TV version includes both arm64-v8a and armeabi-v7a builds.
 
@@ -74,11 +74,20 @@ LitPlayer is an Android video player built with the Jetpack Compose declarative 
 
 ### Mobile Version
 
+#### Video
 <div style="display: flex;">
-    <img alt="home" src="https://github.com/user-attachments/assets/7a6fdadf-5f3e-48a7-bf56-6383b55f0499" width="24%" />
-    <img alt="library" src="https://github.com/user-attachments/assets/f05802f5-6c46-46c5-92ea-f25bc948ba87" width="24%" />
-    <img alt="setting" src="https://github.com/user-attachments/assets/8541a233-8fe4-4221-ab14-c955e2d7044a" width="24%" />
-    <img alt="playback" src="https://github.com/user-attachments/assets/c2ada59c-1501-4c04-bd6a-93a141b5943f" width="24%" />
+<img  alt="home" src="https://github.com/user-attachments/assets/516af00b-a3f7-4398-98a2-08ca685ebf1e" width="24%" />
+<img  alt="video list" src="https://github.com/user-attachments/assets/47cb43c2-2f9f-4b51-b130-c8e9a8e4be6f" width="24%" />
+<img  alt="video playing" src="https://github.com/user-attachments/assets/a360dfec-683d-4fc4-b026-c488a3836365" width="24%" />
+<img  alt="video playlist" src="https://github.com/user-attachments/assets/15474f11-8d58-4369-8ccd-2180cf735189" width="24%" />
+</div>
+
+#### Audio
+<div style="display: flex;">
+<img  alt="audio title" src="https://github.com/user-attachments/assets/e839a9cd-386b-4cab-b4eb-87aa10b82e53" width="24%" />
+<img  alt="audio album" src="https://github.com/user-attachments/assets/fd6c80f3-7b09-4e48-96cd-958036dae3dc" width="24%" />
+<img  alt="video playing" src="https://github.com/user-attachments/assets/6870e602-5979-4344-a424-6b66bffe07af" width="24%" />
+<img  alt="audio playlist" src="https://github.com/user-attachments/assets/38530aec-85c8-4825-a858-ac2acb32591d" width="24%" />
 </div>
 
 ### TV Version

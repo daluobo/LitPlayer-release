@@ -1,6 +1,6 @@
 # 📱 LitPlayer
 
-[中文版本](https://github.com/daluobo/LitPlayer-release/blob/main/README_CN.md)
+[中文介绍](https://github.com/daluobo/LitPlayer-release/blob/main/README_CN.md)
 
 LitPlayer is an Android meida player built with the Jetpack Compose declarative UI framework, based on Media3 ExoPlayer, and following the **Material Design 3** specification. It features a clean interface, smooth interactions, and is perfectly adapted for **Android phones, tablets**, and **Android TV**, providing a consistent viewing experience across devices.
 

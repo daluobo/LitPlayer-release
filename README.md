@@ -19,11 +19,13 @@ LitPlayer is an Android meida player built with the Jetpack Compose declarative 
 
 ### ▶️ Playback Support
 
-- Local audio、video playback
+- Local audio、video playback，Standalone MIDI player interface
 
 - Network streaming playback (supports SMB, WebDAV, Ftp, Jellyfin、UPnP media servers)
 
 - Playback gestures (double-tap to play/pause, swipe to seek forward/backward, volume/brightness gesture adjustment, long press for speed playback, etc.)
+
+- Supports DLNA media casting
 
 
 ### 🎨 Subtitles & Audio Tracks
@@ -51,13 +53,14 @@ LitPlayer is an Android meida player built with the Jetpack Compose declarative 
 
 
 ## 📊 Version & Feature Adaptation
+Starting from version 0.6.0, the lite version and prod version basically have the same features. The main difference is that the lite version includes different third-party dependencies to support older Android systems. If your device runs Android 8.0 or above, please install the prod version for better performance and security.
 
-|Version Type|Minimum Android Version|UPnP Media Server|
-|---|---|---|
-|Phone/Pad - lite|6.0|❌ Not Supported|
-|Phone/Pad|8.0|✅ Supported|
-|TV - lite|7.0|❌ Not Supported|
-|TV|8.0|✅ Supported|
+|Version Type|Minimum Android Version|
+|---|---|
+|Phone/Pad - lite|6.0|
+|Phone/Pad|8.0|
+|TV - lite|7.0|
+|TV|8.0|
 
 
 ## 📥 Download & Installation
@@ -74,20 +77,20 @@ LitPlayer is an Android meida player built with the Jetpack Compose declarative 
 
 ### Mobile Version
 
-#### Video
+#### 视频
 <div style="display: flex;">
-<img  alt="home" src="https://github.com/user-attachments/assets/516af00b-a3f7-4398-98a2-08ca685ebf1e" width="24%" />
-<img  alt="video list" src="https://github.com/user-attachments/assets/47cb43c2-2f9f-4b51-b130-c8e9a8e4be6f" width="24%" />
+<img  alt="home" src="https://github.com/user-attachments/assets/8557df62-3759-425c-adb7-faa7aa9cd8aa" width="24%" />
+<img  alt="video list" src="https://github.com/user-attachments/assets/222382a6-0a7d-4883-bed6-79a6f07a4591" width="24%" />
 <img  alt="video playing" src="https://github.com/user-attachments/assets/a360dfec-683d-4fc4-b026-c488a3836365" width="24%" />
-<img  alt="video playlist" src="https://github.com/user-attachments/assets/15474f11-8d58-4369-8ccd-2180cf735189" width="24%" />
+<img  alt="video playlist" src="https://github.com/user-attachments/assets/2b224868-b6b9-433d-aafa-daf2d7d60f56" width="24%" />
 </div>
 
-#### Audio
+#### 音频
 <div style="display: flex;">
-<img  alt="audio title" src="https://github.com/user-attachments/assets/e839a9cd-386b-4cab-b4eb-87aa10b82e53" width="24%" />
-<img  alt="audio album" src="https://github.com/user-attachments/assets/fd6c80f3-7b09-4e48-96cd-958036dae3dc" width="24%" />
-<img  alt="video playing" src="https://github.com/user-attachments/assets/6870e602-5979-4344-a424-6b66bffe07af" width="24%" />
-<img  alt="audio playlist" src="https://github.com/user-attachments/assets/38530aec-85c8-4825-a858-ac2acb32591d" width="24%" />
+<img  alt="music title" src="https://github.com/user-attachments/assets/7174cb7b-0b06-4492-89e9-4011bf899b26" width="24%" />
+<img  alt="music playback" src="https://github.com/user-attachments/assets/d451b0c4-ec70-4a58-8004-2c7e8879d1d7" width="24%" />
+<img  alt="midi list" src="https://github.com/user-attachments/assets/b4508a40-53b2-4e8e-a29c-6afb5fe2f360" width="24%" />
+<img  alt="midi playback" src="https://github.com/user-attachments/assets/577728d5-8009-4012-82ee-059949b746c5" width="24%" />
 </div>
 
 ### TV Version

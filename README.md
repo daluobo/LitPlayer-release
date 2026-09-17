@@ -59,7 +59,7 @@ Starting from version 0.6.0, the lite version and prod version basically have th
 |---|---|
 |Phone/Pad - lite|6.0|
 |Phone/Pad|8.0|
-|TV - lite|7.0|
+|TV - lite|6.0|
 |TV|8.0|
 
 
